@@ -43,25 +43,25 @@ public class MyActivity extends Activity implements View.OnClickListener {
             case (R.id.Add):
                 Total = V1 + V2;
                 Answer = (TextView) findViewById(R.id.Answer);
-                Answer.setText("Answer is: "+Answer);
+                Answer.setText("Answer is: "+Total);
                 break;
 
             case (R.id.Subtract):
                 Total = V1 - V2;
                 Answer = (TextView) findViewById(R.id.Answer);
-                Answer.setText("Answer is: "+Answer);
+                Answer.setText("Answer is: "+Total);
                 break;
 
             case (R.id.Multiply):
                 Total = V1 * V2;
                 Answer = (TextView) findViewById(R.id.Answer);
-                Answer.setText("Answer is: "+Answer);
+                Answer.setText("Answer is: "+Total);
                 break;
 
             case (R.id.Divide):
                     Total = V1 / V2;
                 Answer = (TextView) findViewById(R.id.Answer);
-                Answer.setText("Answer is: "+Answer);
+                Answer.setText("Answer is: "+Total);
                 break;
 
             case (R.id.Clear):
