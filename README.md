@@ -1,4 +1,4 @@
-MyFirstApp
+Calculator
 ==========
 1) I used android developer(https://developer.android.com) to learn about coding in android and I used Youtube and StackOverflow for debugging and other issues. 
 
